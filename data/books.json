@@ -1,0 +1,14 @@
+[
+  {
+    "id": "book-1",
+    "number": 1,
+    "title": "Earth Prime Awakening",
+    "order": 0
+  },
+  {
+    "id": "book-2",
+    "number": 2,
+    "title": "The Solenum War",
+    "order": 1
+  }
+]

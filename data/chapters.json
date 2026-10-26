@@ -1,0 +1,35 @@
+[
+  {
+    "id": "chap-1",
+    "bookId": "book-1",
+    "chapterNumber": 1,
+    "title": "Last Week in High School",
+    "content": "# Book 1: Earth Prime Awakening\n## Chapter 1: Last Week in High School\n\nThe morning sun filtered through the cafeteria windows as Kael sat alone at his usual table. His forehead mark glowed faintly—a reminder of the power he tried so hard to hide.\n\n---\n\n> \"You think you can just walk away?\" Thorne slammed his hand on the table, the telekinetic ripple sending Kael's tray skidding across the surface.\n\nKael looked up, meeting Rylan's gaze from across the room. The fire manipulator's wrists were already beginning to glow.\n\n---\n\nThe cafeteria fell silent. Everyone knew what was coming.",
+    "status": "draft",
+    "order": 0,
+    "wordCount": 85,
+    "characterCount": 520
+  },
+  {
+    "id": "chap-2",
+    "bookId": "book-1",
+    "chapterNumber": 2,
+    "title": "The Echo of the Watchtower",
+    "content": "# Book 1: Earth Prime Awakening\n## Chapter 2: The Echo of the Watchtower\n\nThe ancient watchtower stood silent against the crimson sky. Kael climbed the stone steps, each one echoing with the weight of history.",
+    "status": "in_review",
+    "order": 1,
+    "wordCount": 32,
+    "characterCount": 180
+  },
+  {
+    "id": "chap-3",
+    "bookId": "book-1",
+    "chapterNumber": 3,
+    "title": "First Battle",
+    "content": "# Book 1: Earth Prime Awakening\n## Chapter 3: First Battle\n\nThe battlefield stretched before them—a sea of chaos and fire. Thorne raised his hands, purple energy crackling between his fingers.",
+    "status": "locked",
+    "order": 2,
+    "wordCount": 28,
+    "characterCount": 165
+  }
+]

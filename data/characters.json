@@ -1,0 +1,54 @@
+[
+  {
+    "id": "char-1",
+    "name": "Thorne",
+    "age": 17,
+    "faction": "Valgard Empire",
+    "lineage": "Noble House",
+    "primaryAbility": "Telekinesis",
+    "secondaryAbility": "Energy Shield",
+    "powerEfficiency": "85%",
+    "visualIndicators": "Glowing hands, Purple aura",
+    "heightRatio": 1.0,
+    "outfitColors": "#7c3aed"
+  },
+  {
+    "id": "char-2",
+    "name": "Rylan",
+    "age": 19,
+    "faction": "Solenum Kingdom",
+    "lineage": "Fire Clan",
+    "primaryAbility": "Fire Manipulation",
+    "secondaryAbility": "Speed",
+    "powerEfficiency": "92%",
+    "visualIndicators": "Flaming wrists, Red eyes",
+    "heightRatio": 1.05,
+    "outfitColors": "#dc2626"
+  },
+  {
+    "id": "char-3",
+    "name": "Kael",
+    "age": 18,
+    "faction": "Independent",
+    "lineage": "Star-Born",
+    "primaryAbility": "Star Mark Power",
+    "secondaryAbility": "Light Projection",
+    "powerEfficiency": "87%",
+    "visualIndicators": "Star forehead mark, Glowing wrists",
+    "heightRatio": 1.0,
+    "outfitColors": "#FFD700"
+  },
+  {
+    "id": "char-4",
+    "name": "Kira",
+    "age": 17,
+    "faction": "Independent",
+    "lineage": "Unknown",
+    "primaryAbility": "Precognition",
+    "secondaryAbility": "Telepathy",
+    "powerEfficiency": "78%",
+    "visualIndicators": "Silver eyes, Faint halo",
+    "heightRatio": 0.95,
+    "outfitColors": "#c0c0c0"
+  }
+]
